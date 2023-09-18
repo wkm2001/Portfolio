@@ -11,3 +11,4 @@ Dataset Sources:
     Wealth Inequality: https://ourworldindata.org/economic-inequality
     Covid: https://ourworldindata.org/covid-deaths
     Nashville Housing: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+    Bike Sales: https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
